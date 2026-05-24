@@ -129,7 +129,3 @@ All three must be met independently. Falling below any single threshold fails th
 | Course pass threshold | Total course score: minimum 51 out of 100 |
 
 ---
-
-## Important Note on Quizzes
-
-The GitHub repository ASSESSMENT_OVERVIEW.md lists quizzes as a separate 15-point component. This does not appear in the official published syllabus. The authoritative document is the syllabus. Quizzes built into Weekends 2 and 3 function as participation and comprehension checks, not as a separate graded component. If students have been told otherwise, this must be clarified before grades are submitted.
