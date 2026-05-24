@@ -1,44 +1,69 @@
-# Assessment Overview
+Full Course Assessment: 100 Points Total
+Component 1: Participation and Engagement — 15 points
+Continuous evaluation across all four weekends. Individual, not group.
+What is being assessed:
 
-## Grade components
+Active contribution in class discussions and workshops
+Quality of questions and insights during case debriefs
+Collaboration and teamwork in group activities
+Preparation and engagement with course materials
+Professional conduct and peer support
 
-- Participation: 15%
-- Quizzes: 15%
-- Midterm project: 25%
-- Final project: 15%
-- Final exam: 30%
+There is no single submission moment. This is observed and accumulated across every session from Weekend 1 through to the close of Weekend 4 on Sunday May 31. In a 12-person seminar, the syllabus notes explicitly that silence is not neutral.
 
-## Weekend 1 assessment relevance
+Component 2: Case Study Analysis — 20 points
+Individual written submission. 10 to 12 pages. One per student, not one per team.
+What it must contain:
 
-Weekend 1 does not produce the full midterm or final project, but it establishes the analytical base required for both.
+Industry and competitive context analysis
+Disruption forces and strategic implications
+Critical evaluation of the transformation approach
+Application of course frameworks: disruption theory, platform strategy, AI transformation
+Alternative recommendations with justification
 
-### Weekend 1 artifacts that feed later assessment
+The syllabus states the deadline as "throughout semester, specific cases and deadlines announced in class." This deadline has not been formally set and communicated. It remains the most urgent unresolved administrative item in the course.
 
-- Strategic problem statement
-- Issue tree
-- Hypothesis log
-- Industry analysis
-- Competitive landscape
-- Sprint plan
+Component 3: Midterm Exam — 25 points
+Group project. Already delivered at Weekend 3 on Saturday May 23.
+Format: Executive presentation of 25 to 30 slides plus supporting business case documentation.
+What it had to contain:
 
-## What strong work looks like
+Industry diagnostic and disruption analysis
+Strategic options evaluation
+Recommended business model with transformation path
+ROI model with financial projections and assumptions
+Risk assessment and mitigation strategies
 
-Strong work in this course has five traits:
+Assessment criteria used for grading:
 
-1. clear strategic framing,
-2. correct use of frameworks,
-3. evidence-based reasoning,
-4. concise executive communication,
-5. visible logical progression from problem to recommendation.
+Depth of industry and competitive analysis
+Strategic insight and business model innovation
+Financial rigor and ROI justification
+Quality of recommendations and implementation logic
+Professional presentation standards
 
-## Common failure modes
+The interim threshold the syllabus sets is 30 out of 60 combined from the midterm plus continuous assessments. A student who scores below 30 out of 60 at the interim stage cannot pass the course regardless of the final exam.
 
-- describing technology without strategic consequences,
-- confusing disruption with ordinary innovation,
-- weak industry analysis,
-- unsupported claims,
-- jumping to recommendations before defining the problem.
+Component 4: Final Exam — 40 points
+Group project. Delivered Sunday May 31.
+Format: Boardroom-quality final consulting engagement.
+What it must contain:
 
-## Practical guidance
+30-minute executive presentation with Q&A
+Comprehensive final report synthesizing all work
+Complete 18-month transformation roadmap
+Change management and governance plan
+Implementation milestones and resource requirements
+Executive summary with key recommendations
 
-Treat every Weekend 1 artifact as a draft of something larger. Do not produce throwaway work.
+Assessment criteria and their weights within the 40 points:
+
+Strategic insight and analytical rigor: 30%
+Quality and feasibility of transformation roadmap: 30%
+Executive communication and storytelling: 25%
+Professional presentation standards and polish: 15%
+
+The final threshold is 20 out of 40. A student or team that scores below 20 on the final exam fails the final exam regardless of their interim score.
+
+Grading Scale
+GradePointsA91 to 100B81 to 90C71 to 80D61 to 70E51 to 60FX41 to 50 (additional examination after independent work)F0 to 40 (course retake required)
